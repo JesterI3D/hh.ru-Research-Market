@@ -8,3 +8,5 @@ as well as in the CIS - hh.ru
 I conducted a study of the IT market in the territory of my city (the city of Tver). 
 My main emphasis was placed on vacancies in the specialization Python 
 and its related areas.
+
+#Python #DataScience #hh_ru
